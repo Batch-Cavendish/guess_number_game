@@ -13,7 +13,11 @@ app.exe
 # 排除 IDE 配置文件
 .vscode/
 .idea/
+compile_commands.json
 
 # 排除系统文件
 .DS_Store
 Thumbs.db
+
+# 排除中间文件
+.cache
