@@ -1,4 +1,3 @@
-#include <corecrt_search.h>
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
